@@ -1,0 +1,1 @@
+-- A: I need to use a simple text literal statement select configuration to display 'Hello World'.

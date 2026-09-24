@@ -1,0 +1,1 @@
+-- A: I need to count rows inside the team configuration catalog dimension table.

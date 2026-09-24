@@ -1,0 +1,1 @@
+-- Q: How many unique team nodes exist within our league dimensions?

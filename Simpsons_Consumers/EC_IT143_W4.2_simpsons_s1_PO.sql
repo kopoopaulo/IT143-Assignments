@@ -1,0 +1,1 @@
+-- Q: What is the total row count of transaction lines recorded inside our main Visa ledger?

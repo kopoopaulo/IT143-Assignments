@@ -1,0 +1,1 @@
+-- A: I need to run a count function on rows inside the credit card transactions table.
